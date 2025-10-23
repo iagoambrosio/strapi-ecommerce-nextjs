@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: '*.app.github.dev/uploads/',
+        hostname: '*.app.github.dev',
         port: '443',
         pathname: "/**",
       },
