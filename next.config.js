@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        domains: '*.app.github.dev',
+        hostname: 'expert-waddle-qxjvxp4p56phgwr-1337.app.github.dev',
         port: '443',
         pathname: "/**",
       },
